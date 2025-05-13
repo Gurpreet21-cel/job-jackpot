@@ -168,6 +168,23 @@
         "images": [],
         "rank": "3",
         "id": "a2d43849-2549-4dc8-af60-c0404a0b1aeb"
+      },
+      {
+        "id": "4500b498-6a13-4705-88c6-a2e9e5076982",
+        "timeline": "2020-2023",
+        "courseName": "Bachelor of Commerce",
+        "instituteName": "Himachal Pradesh University",
+        "specializedIn": "Commerce",
+        "yearPassout": "2023",
+        "headline1": "",
+        "headline2": "",
+        "cgpa": "7",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "4"
       }
     ]
   }
