@@ -58,6 +58,11 @@
         "id": "1740395723281",
         "name": "Detail Oriented",
         "rating": 10
+      },
+      {
+        "id": "8e737ba8-3031-4306-b684-21cee1800273",
+        "name": "Adaptable",
+        "rating": 10
       }
     ],
     "skillAnimationType": "scale-animation"
