@@ -160,7 +160,7 @@
         "yearPassout": "2025",
         "headline1": "",
         "headline2": "",
-        "cgpa": "7",
+        "cgpa": "8",
         "link": {
           "linkText": "",
           "linkUrl": ""
@@ -178,13 +178,30 @@
         "yearPassout": "2023",
         "headline1": "",
         "headline2": "",
-        "cgpa": "7",
+        "cgpa": "7.18",
         "link": {
           "linkText": "",
           "linkUrl": ""
         },
         "images": [],
         "rank": "4"
+      },
+      {
+        "id": "1c6dd2ce-cf94-4db1-930a-0e340618d2e0",
+        "timeline": "2022-2023",
+        "courseName": "Accounts and Tally Professional Course",
+        "instituteName": "Skill India",
+        "specializedIn": "Accounts, Tally ",
+        "yearPassout": "2023",
+        "headline1": "",
+        "headline2": "",
+        "cgpa": "8.5",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "5"
       }
     ]
   }
