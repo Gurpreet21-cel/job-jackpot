@@ -113,31 +113,23 @@
     ]
   },
   "projectsInfo": {
-    "displayName": "Timeline",
+    "displayName": "Work Experience",
     "projects": [
       {
-        "timeline": "Jan'23 – Present",
-        "projectName": "AWS Cloud Dashboard",
-        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
-        "headline2": "Implemented CI/CD pipelines for automated deployments.",
-        "designation": "Full Stack Developer (Cloud & Web Development)",
+        "timeline": "Jan'30– Present",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "Accounts Process Executive",
         "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkText": "",
+          "linkUrl": ""
         },
-        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
-        "companyName": "Amazon",
-        "images": [
-          {
-            "fileName": "fs2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
-          },
-          {
-            "fileName": "fs3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs3.png"
-          }
-        ],
-        "rank": "1"
+        "skills": "Client Management, Knowledge Processing",
+        "companyName": "Greet Technologies Pvt. Ltd ",
+        "images": [],
+        "rank": "1",
+        "id": "3cae9ef0-450a-4085-b05e-9ccb4020ee32"
       },
       {
         "timeline": "Jul'19 – Dec'22",
@@ -165,7 +157,38 @@
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
           }
         ],
-        "rank": "2"
+        "rank": "2",
+        "id": "f56723b8-6c47-483d-9be1-7b6e747f6075"
+      },
+      {
+        "id": "5e836bca-a7f9-4152-bf51-ea60c889cbf1",
+        "timeline": "",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "",
+        "images": []
+      },
+      {
+        "id": "e6f2ebc4-dbb3-40ee-839d-3140db08bc19",
+        "timeline": "",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "",
+        "images": []
       }
     ]
   },
@@ -186,7 +209,8 @@
           "linkUrl": "https://github.com/"
         },
         "images": [],
-        "rank": "3"
+        "rank": "3",
+        "id": "a2d43849-2549-4dc8-af60-c0404a0b1aeb"
       }
     ]
   }
