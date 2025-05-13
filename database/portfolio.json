@@ -26,68 +26,38 @@
     "skills": [
       {
         "id": "1744134025357",
-        "name": "JavaScript",
-        "rating": 8
+        "name": "TallyPrime",
+        "rating": 10
       },
       {
         "id": "1740395651799",
-        "name": "Angular",
-        "rating": 7
+        "name": "MS Office",
+        "rating": 10
       },
       {
         "id": "1740395676065",
-        "name": "Tailwind CSS",
-        "rating": 8.5
+        "name": "MS Excel",
+        "rating": 10
       },
       {
         "id": "1740395685031",
-        "name": "SASS/SCSS",
-        "rating": 7.5
+        "name": "SAP",
+        "rating": 9.5
       },
       {
         "id": "1740395695702",
-        "name": "Node.js",
-        "rating": 7.5
+        "name": "Time Management",
+        "rating": 10
       },
       {
         "id": "1740395714800",
-        "name": "ASP.NET",
-        "rating": 8
+        "name": "Book Keeping",
+        "rating": 10
       },
       {
         "id": "1740395723281",
-        "name": "MySQL",
-        "rating": 8.5
-      },
-      {
-        "id": "1740395731715",
-        "name": "MongoDB",
-        "rating": 7
-      },
-      {
-        "id": "1740395743548",
-        "name": "Firebase",
-        "rating": 7.5
-      },
-      {
-        "id": "1740395757214",
-        "name": "Git",
-        "rating": 8.5
-      },
-      {
-        "id": "1740395765849",
-        "name": "AWS",
-        "rating": 5
-      },
-      {
-        "id": "1744131454787",
-        "name": "ReactJS",
-        "rating": 8.5
-      },
-      {
-        "id": "1744187855322",
-        "name": "Redux",
-        "rating": 8
+        "name": "Detail Oriented",
+        "rating": 10
       }
     ],
     "skillAnimationType": "scale-animation"
