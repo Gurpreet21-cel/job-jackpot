@@ -120,7 +120,7 @@
         "projectName": "",
         "headline1": "",
         "headline2": "",
-        "designation": "Accounts Process Executive",
+        "designation": "Accounts Intern",
         "link": {
           "linkText": "",
           "linkUrl": ""
@@ -132,63 +132,20 @@
         "id": "3cae9ef0-450a-4085-b05e-9ccb4020ee32"
       },
       {
-        "timeline": "Jul'19 – Dec'22",
-        "projectName": " E-commerce Web Platform",
-        "headline1": "Built and optimized a high-traffic e-commerce platform.",
-        "headline2": "Developed a microservices architecture for scalability.",
-        "designation": "Software Engineer (Full Stack Developer)",
+        "timeline": "June 2024-July 2024",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "Finance Intern",
         "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkText": "",
+          "linkUrl": ""
         },
-        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
-        "companyName": "Infosys",
-        "images": [
-          {
-            "fileName": "fs1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
-          },
-          {
-            "fileName": "fs4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
-          },
-          {
-            "fileName": "fs5.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
-          }
-        ],
+        "skills": "Budgeting, Book Keeping, SAP, Accounts Management",
+        "companyName": "Zee Laboratories Pvt. Ltd.",
+        "images": [],
         "rank": "2",
         "id": "f56723b8-6c47-483d-9be1-7b6e747f6075"
-      },
-      {
-        "id": "5e836bca-a7f9-4152-bf51-ea60c889cbf1",
-        "timeline": "",
-        "projectName": "",
-        "headline1": "",
-        "headline2": "",
-        "designation": "",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "skills": "",
-        "companyName": "",
-        "images": []
-      },
-      {
-        "id": "e6f2ebc4-dbb3-40ee-839d-3140db08bc19",
-        "timeline": "",
-        "projectName": "",
-        "headline1": "",
-        "headline2": "",
-        "designation": "",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "skills": "",
-        "companyName": "",
-        "images": []
       }
     ]
   },
