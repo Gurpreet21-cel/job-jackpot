@@ -96,19 +96,24 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1740396546601",
-        "text": "Achieved MongoDB Certified Developer status, showcasing advanced knowledge of NoSQL database design, indexing, and query optimization.",
-        "type": "certificate"
-      },
-      {
-        "id": "1740396554434",
-        "text": "Earned AWS Certified Developer – Associate, demonstrating expertise in deploying and managing full-stack applications using AWS cloud services.",
-        "type": "certificate"
-      },
-      {
-        "id": "1740396513085",
-        "text": "Recognized as a Top 10 Finalist in the GitHub Open Source Challenge for contributing to large-scale full-stack projects and optimizing existing frameworks.",
+        "id": "4484d814-371a-4382-82be-de0db7dc0d2d",
+        "text": "Award for leading the class in graduation.",
         "type": "award"
+      },
+      {
+        "id": "a7811e26-e4db-40a8-81f5-a7d722419e63",
+        "text": "Got 2nd position in Metric in school.",
+        "type": "award"
+      },
+      {
+        "id": "d3b23051-7e60-4a6c-b95b-d6fdd512b3ac",
+        "text": "Merit Certificate in Matriculation Examination and in District Sirmour 114th(89) position in the Matriculation held in March 2018 by the Himachal Pradesh Board of School Education, Dharamshala.",
+        "type": "certificate"
+      },
+      {
+        "id": "3a5f77f1-3fb1-4015-aebc-78a424656f18",
+        "text": "Merit Certificate in Senior Secondary Examination and in District Sirmour, 77th(86) position in the Senior Secondary Examination held in March 2020 by the Himachal Pradesh Board of School Education, Dharamshala.",
+        "type": "certificate"
       }
     ]
   },
