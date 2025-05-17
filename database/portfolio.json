@@ -140,7 +140,7 @@
         "yearPassout": "2025",
         "headline1": "",
         "headline2": "",
-        "cgpa": "8",
+        "cgpa": "",
         "link": {
           "linkText": "",
           "linkUrl": ""
@@ -158,7 +158,7 @@
         "yearPassout": "2023",
         "headline1": "",
         "headline2": "",
-        "cgpa": "7.18",
+        "cgpa": "",
         "link": {
           "linkText": "",
           "linkUrl": ""
@@ -175,7 +175,7 @@
         "yearPassout": "2023",
         "headline1": "",
         "headline2": "",
-        "cgpa": "8.5",
+        "cgpa": "",
         "link": {
           "linkText": "",
           "linkUrl": ""
